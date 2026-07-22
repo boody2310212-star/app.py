@@ -2,3 +2,4 @@ streamlit
 plotly
 requests
 pandas
+openpyxl
